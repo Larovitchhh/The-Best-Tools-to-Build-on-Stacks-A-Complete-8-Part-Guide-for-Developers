@@ -1,0 +1,17 @@
+8. Stacks Explorer, Testnet Tools & Deployment Resources
+
+A production deployment on Stacks relies on a full ecosystem of utilities:
+
+Essential tools:
+
+Stacks Explorer → contract verification & public tracking
+
+Testnet Faucet → acquire STX for testing
+
+Contract Verifier → validate smart contracts publicly
+
+Devnet CLI → spin up dockerized environment
+
+Hiro Developer Console → manage API keys & analytics
+
+Useful for debugging, validating user activity, and monitoring your deployment.
