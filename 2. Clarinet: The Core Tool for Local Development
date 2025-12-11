@@ -1,0 +1,17 @@
+2. Clarinet: The Core Tool for Local Development
+
+Clarinet is the standard toolkit for writing, testing, and deploying Clarity smart contracts.
+
+What you can do:
+
+Spin up a local Stacks devnet instantly
+
+Write unit tests in JavaScript or Rust
+
+Simulate block production
+
+Deploy contract packages
+
+Generate automated coverage reports
+
+Clarinet is the equivalent of “Hardhat for Stacks,” but with tighter integration to the blockchain model.
