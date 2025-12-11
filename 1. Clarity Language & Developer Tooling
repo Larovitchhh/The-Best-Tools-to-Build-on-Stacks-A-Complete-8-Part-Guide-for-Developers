@@ -1,0 +1,19 @@
+1. Clarity Language & Developer Tooling
+
+Clarity is the smart contract language used on Stacks. It’s deliberately non-Turing complete, making contract behavior predictable, readable, and verifiable.
+
+Key features:
+
+No compiler → code runs as written
+
+Decidable → avoids hidden logic or unexpected behavior
+
+Native Bitcoin interactions (via upcoming sBTC)
+
+Essential tooling:
+
+Clarinet (HIRO) for contracts, testing, simulations
+
+Clarity REPL for quick prototypes
+
+Clarity LSP for VSCode support
