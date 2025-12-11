@@ -1,0 +1,15 @@
+4. Leather Wallet (Formerly Hiro Web Wallet)
+
+Leather is the most widely used Bitcoin-connected wallet that supports Stacks and upcoming sBTC functionality.
+
+Why developers integrate it:
+
+Onboarding users quickly with simple auth
+
+Supports STX, SIP-010 tokens, Ordinals & BTC
+
+Enables sponsored transactions
+
+Deep integration with Stacks.js
+
+Great for miniapps, micro-dApps, and browser-based dApps.
