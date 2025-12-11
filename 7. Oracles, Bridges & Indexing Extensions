@@ -1,0 +1,13 @@
+7. Oracles, Bridges & Indexing Extensions
+
+Several complementary tools enrich what you can build:
+
+ALEX Oracle → price feeds
+
+Randa → oracle / automation tooling
+
+Velar → DeFi components and submodules
+
+XVerse integrations → alternative wallet & signing stack
+
+Use these to build DEXs, lending protocols, automated workflows, or cross-chain logic.
