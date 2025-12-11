@@ -1,0 +1,17 @@
+5. Stacks API & Indexers
+
+Any real app needs indexing. Stacks API is an essential high-performance backend for retrieving on-chain data.
+
+Use cases:
+
+Fetch contract state
+
+Access NFT/token metadata
+
+Monitor transactions
+
+Build dashboards and analytics
+
+Read historical blockchain data
+
+Advanced option: run your own Stacks node to avoid rate limits.
