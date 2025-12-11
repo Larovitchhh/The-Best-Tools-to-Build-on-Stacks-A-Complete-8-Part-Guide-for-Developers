@@ -1,0 +1,17 @@
+3. Stacks.js: The Frontend & Backend SDK
+
+Stacks.js is a collection of JavaScript libraries that enables seamless interaction with the Stacks blockchain from apps, wallets, servers, or browsers.
+
+Capabilities:
+
+Wallet authentication via Hiro Wallet or Leather
+
+Read/write contract calls
+
+Build off-chain microservices
+
+Handle transaction serialization
+
+Work with SIP-010 tokens, NFTs, or custom contracts
+
+If you’re building a web dApp, Stacks.js is essential.
